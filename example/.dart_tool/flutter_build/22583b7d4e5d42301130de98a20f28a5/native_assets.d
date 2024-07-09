@@ -1,0 +1,1 @@
+ /Users/wujincheng/workplace/OlaChat/flutter_screen/example/.dart_tool/flutter_build/22583b7d4e5d42301130de98a20f28a5/native_assets.yaml: 
